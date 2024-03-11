@@ -1,7 +1,7 @@
 # Infrastructure
 
 ## Infrastructure Diagram:-
-![alt text](Image2.png)
+![alt text](Archt 1.png)
 Total AWS resources:-
 1. VPC
 2. Subnet (2 Public, 2 Private)
@@ -11,7 +11,7 @@ Total AWS resources:-
 6. Security Group
 
 ## Ops Diagram:-
-![alt text](Image.png)
+![alt text](VPC Architect.png)
 
 ## Info About Branches
 1. terraform branch:- This branch is related to infrastructure, all the terraform code are stored in terraform branch.
